@@ -1,0 +1,1 @@
+git branch <branch name> to create a branch within command
